@@ -9054,4 +9054,7 @@
 
     <!-- Note displayed when certain features are not available on low ram devices. [CHAR LIMIT=NONE] -->
     <string name="disabled_low_ram_device">This feature is not available on this device</string>
+
+    <string name="volte_icon_title">VoLTE icon</string>
+     <string name="volte_icon_summary">Display VoLTE icon when available</string>
 </resources>
